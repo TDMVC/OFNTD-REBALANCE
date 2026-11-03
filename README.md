@@ -1,4 +1,4 @@
-{
+  {
   "Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://16620053009",
@@ -2755,7 +2755,7 @@
     "Type": "AOE Poison",
     "Image": "rbxassetid://18977738423",
     "Rarity": "Secret",
-    "PlacePrice": 10000,
+    "PlacePrice": 4000,
     "Offset": 0.5,
     "Max": 3,
     "Passive": {
@@ -2777,28 +2777,28 @@
         "Cooldown": 3
       },
       {
-        "Price": 20000,
+        "Price": 4000,
         "Range": 27,
         "Damage": 1000,
         "Poison": 400,
         "PoisonTime": 3,
-        "Cooldown": 2.85
+        "Cooldown": 2.5
       },
       {
-        "Price": 30000,
+        "Price": 5000,
         "Range": 32,
-        "Damage": 1250,
-        "Poison": 450,
-        "PoisonTime": 3,
-        "Cooldown": 2.7
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 1500,
-        "Poison": 500,
+        "Damage": 1200,
+        "Poison": 400,
         "PoisonTime": 3,
         "Cooldown": 2.5
+      },
+      {
+        "Price": 150000,
+        "Range": 35,
+        "Damage": 900,
+        "Poison": 200,
+        "PoisonTime": 3,
+        "Cooldown": 1
       }
     ]
   },
@@ -2822,32 +2822,32 @@
       {
         "Price": 0,
         "Range": 17,
-        "Damage": 150,
-        "Burn": 38,
+        "Damage": 300,
+        "Burn": 76,
         "BurnTime": 1.2,
         "Cooldown": 1
       },
       {
         "Price": 4000,
         "Range": 19,
-        "Damage": 200,
-        "Burn": 50,
+        "Damage": 400,
+        "Burn": 100,
         "BurnTime": 1.2,
         "Cooldown": 1
       },
       {
         "Price": 5000,
         "Range": 20,
-        "Damage": 250,
-        "Burn": 62,
+        "Damage": 500,
+        "Burn": 124,
         "BurnTime": 1.2,
         "Cooldown": 1
       },
       {
         "Price": 6000,
         "Range": 22,
-        "Damage": 300,
-        "Burn": 80,
+        "Damage": 600,
+        "Burn": 160,
         "BurnTime": 1.2,
         "Cooldown": 1
       }
@@ -3960,46 +3960,58 @@
       }
     ]
   },
-  "Party Chica": {
-        "Type": "Splash",
-        "Image": "rbxassetid://103160362573950",
-        "Rarity": "Mythic",
-        "PlacePrice": 500,
-        "Offset": 0.7,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 700,
-                "Range": 16,
-                "Damage": 600,
-                "Cooldown": 0.45
-            },
-            {
-                "Price": 800,
-                "Range": 17,
-                "Damage": 750,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 0.4
-            }
-        ]
+  "Witch Toy Chica": {
+    "Type": "Poison",
+    "Image": "rbxassetid://18363391561",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Max": 3,
+    "Passive": {
+      "Name": "Lethal Potions",
+      "Description": "Deals 75% damage in poison over 3 seconds"
     },
-    "Astral Bonnie": {
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -0.4,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 125,
+        "Cooldown": 2.5,
+        "Poison": 80,
+        "PoisonLength": 3
+      },
+      {
+        "Price": 800,
+        "Range": 24,
+        "Damage": 180,
+        "Cooldown": 2.3,
+        "Poison": 120,
+        "PoisonLength": 3
+      },
+      {
+        "Price": 1000,
+        "Range": 28,
+        "Damage": 260,
+        "Cooldown": 2.2,
+        "Poison": 220,
+        "PoisonLength": 3
+      },
+      {
+        "Price": 1200,
+        "Range": 32,
+        "Damage": 420,
+        "Cooldown": 2,
+        "Poison": 400,
+        "PoisonLength": 3
+      }
+    ]
+  },
+  "Astral Bonnie": {
             "Type": "Continuous Splash",
             "Image": "rbxassetid://128604882971057",
             "Rarity": "Apex",
@@ -4047,7 +4059,7 @@
                 }
             ]
         },
-    "Purple Guy": {
+"Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
         "Rarity": "Secret",
@@ -4099,7 +4111,46 @@
             }
         ]
     },
-    "Goliath Endo Freddy": {
+"Party Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://103160362573950",
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 700,
+                "Range": 16,
+                "Damage": 600,
+                "Cooldown": 0.45
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 750,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+"Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Secret",
@@ -4149,56 +4200,5 @@
                 "Cooldown": 3
             }
         ]
-    },
-  "Witch Toy Chica": {
-    "Type": "Poison",
-    "Image": "rbxassetid://18363391561",
-    "Rarity": "Secret",
-    "PlacePrice": 500,
-    "Max": 3,
-    "Passive": {
-      "Name": "Lethal Potions",
-      "Description": "Deals 75% damage in poison over 3 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": -0.4,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 22,
-        "Damage": 125,
-        "Cooldown": 2.5,
-        "Poison": 80,
-        "PoisonLength": 3
-      },
-      {
-        "Price": 800,
-        "Range": 24,
-        "Damage": 180,
-        "Cooldown": 2.3,
-        "Poison": 120,
-        "PoisonLength": 3
-      },
-      {
-        "Price": 1000,
-        "Range": 28,
-        "Damage": 260,
-        "Cooldown": 2.2,
-        "Poison": 220,
-        "PoisonLength": 3
-      },
-      {
-        "Price": 1200,
-        "Range": 32,
-        "Damage": 420,
-        "Cooldown": 2,
-        "Poison": 400,
-        "PoisonLength": 3
-      }
-    ]
-  }
+    }
 }
