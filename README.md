@@ -4001,7 +4001,7 @@
     },
     "Astral Bonnie": {
             "Type": "Continuous Splash",
-            "Image": "rbxassetid://128604882971057",
+            "Image": "rbxassetid://73029306518155",
             "Rarity": "Apex",
             "PlacePrice": 20000,
             "Offset": 0.5,
