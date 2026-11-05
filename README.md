@@ -4043,7 +4043,137 @@
               }
           ]
     },
-    "Astral Bonnie": {
+    "8-bit freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://90583921567940",
+    "Rarity": "Rare",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 4200,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "8-bit chica": {
+    "Type": "Single",
+    "Image": "rbxassetid://109884739323395",
+    "Rarity": "Epic",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 4200,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "8-bit foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://73402729718184",
+    "Rarity": "Mythic",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 4200,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "8-bit bonnie": {
+    "Type": "Single",
+    "Image": "rbxassetid://71088939528114",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 4200,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "8-bit golden freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://81067428439517",
+    "Rarity": "Nightmare",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 4200,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "Astral Bonnie": {
             "Type": "Continuous Splash",
             "Image": "rbxassetid://73029306518155",
             "Rarity": "Apex",
