@@ -4246,7 +4246,7 @@
         "Cooldown": 1.25,
         "Slow": 0.25,
         "SlowTime": 2
-        },
+      },
       {
         "Price": 40000,
         "Range": 25,
