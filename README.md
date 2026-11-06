@@ -4094,46 +4094,7 @@
               }
           ]
     },
-    "Party Chica": {
-  "Type": "Splash",
-  "Image": "rbxassetid://103160362573950",
-  "Rarity": "Epic",
-  "PlacePrice": 500,
-  "Offset": 0.7,
-  "Max": 3,
-  "hitboxOffset": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0
-  },
-  "Upgrades": [
-    {
-      "Price": 0,
-      "Range": 15,
-      "Damage": 100,
-      "Cooldown": 1
-    },
-    {
-      "Price": 700,
-      "Range": 17,
-      "Damage": 100,
-      "Cooldown": 0.5
-    },
-    {
-      "Price": 1000,
-      "Range": 17,
-      "Damage": 125,
-      "Cooldown": 0.5
-    },
-    {
-      "Price": 1200,
-      "Range": 20,
-      "Damage": 75,
-      "Cooldown": 0.25
-    }
-  ]
-},
-"8-bit freddy": {
+    "8-bit freddy": {
   "Type": "Single",
   "Image": "rbxassetid://90583921567940",
   "Rarity": "Rare",
