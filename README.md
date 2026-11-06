@@ -4094,210 +4094,302 @@
               }
           ]
     },
-    "8-bit freddy": {
-    "Type": "Single",
-    "Image": "rbxassetid://90583921567940",
-    "Rarity": "Rare",
-    "PlacePrice": 500,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 16,
-        "Damage": 125,
-        "Cooldown": 1.25
-      },
-      {
-        "Price": 500,
-        "Range": 17,
-        "Damage": 150,
-        "Cooldown": 1
-      },
-      {
-        "Price": 800,
-        "Range": 18,
-        "Damage": 200,
-        "Cooldown": 1
-      },
-      {
-        "Price": 1000,
-        "Range": 20,
-        "Damage": 250,
-        "Cooldown": 0.75
-      }
-    ]
+    "Party Chica": {
+  "Type": "Splash",
+  "Image": "rbxassetid://103160362573950",
+  "Rarity": "Epic",
+  "PlacePrice": 500,
+  "Offset": 0.7,
+  "Max": 3,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "8-bit chica": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://109884739323395",
-    "Rarity": "Epic",
-    "PlacePrice": 950,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 15,
+      "Damage": 100,
+      "Cooldown": 1
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 18,
-        "Damage": 400,
-        "Cooldown": 2
-      },
-      {
-        "Price": 1500,
-        "Range": 30,
-        "Damage": 300,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2000,
-        "Range": 20,
-        "Damage": 350,
-        "Cooldown": 1
-      },
-      {
-        "Price": 3000,
-        "Range": 23,
-        "Damage": 350,
-        "Cooldown": 0.8
-      }
-    ]
-  },
-  "8-bit foxy": {
-    "Type": "Single",
-    "Image": "rbxassetid://73402729718184",
-    "Rarity": "Mythic",
-    "PlacePrice": 1500,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+    {
+      "Price": 700,
+      "Range": 17,
+      "Damage": 100,
+      "Cooldown": 0.5
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 21,
-        "Damage": 25,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 3000,
-        "Range": 22,
-        "Damage": 25,
-        "Cooldown": 0.2
-      },
-      {
-        "Price": 4000,
-        "Range": 23,
-        "Damage": 30,
-        "Cooldown": 0.15
-      },
-      {
-        "Price": 5000,
-        "Range": 24,
-        "Damage": 30,
-        "Cooldown": 0.05
-      }
-    ]
-  },
-  "8-bit bonnie": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://71088939528114",
-    "Rarity": "Secret",
-    "PlacePrice": 7500,
-    "Max": 2,
-     "Passive": {
-      "Name": "Slow",
-      "Description": "Inflicts Slowness"
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+    {
+      "Price": 1000,
+      "Range": 17,
+      "Damage": 125,
+      "Cooldown": 0.5
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 500,
-        "Cooldown": 1.5,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 10000,
-        "Range": 22,
-        "Damage": 1000,
-        "Cooldown": 1.25,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 25000,
-        "Range": 24,
-        "Damage": 1500,
-        "Cooldown": 1.25,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 40000,
-        "Range": 25,
-        "Damage": 2500,
-        "Cooldown": 1,
-        "Slow": 0.25,
-        "SlowTime": 2
-      }
-    ]
+    {
+      "Price": 1200,
+      "Range": 20,
+      "Damage": 75,
+      "Cooldown": 0.25
+    }
+  ]
+},
+"8-bit freddy": {
+  "Type": "Single",
+  "Image": "rbxassetid://90583921567940",
+  "Rarity": "Rare",
+  "PlacePrice": 500,
+  "Max": 4,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "8-bit golden freddy": {
-    "Type": "Cone AOE",
-    "Image": "rbxassetid://81067428439517",
-    "Rarity": "Nightmare",
-    "PlacePrice": 25000,
-    "Max": 2,
-    "Passive": {
-      "Name": "Bleed",
-      "Description": "Inflicts Bleed"
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 16,
+      "Damage": 125,
+      "Cooldown": 1.25
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 500,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 1000,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 50000,
-        "Range": 35,
-        "Damage": 1200,
-        "Cooldown": 0.3
-      },
-      {
-        "Price": 75000,
-        "Range": 40,
-        "Damage": 1200,
-        "Cooldown": 0.2
-      }
-    ]
+    {
+      "Price": 500,
+      "Range": 17,
+      "Damage": 150,
+      "Cooldown": 1
+    },
+    {
+      "Price": 800,
+      "Range": 18,
+      "Damage": 200,
+      "Cooldown": 1
+    },
+    {
+      "Price": 1000,
+      "Range": 20,
+      "Damage": 250,
+      "Cooldown": 0.75
+    }
+  ]
+},
+"8-bit chica": {
+  "Type": "Explosion",
+  "Image": "rbxassetid://109884739323395",
+  "Rarity": "Epic",
+  "PlacePrice": 950,
+  "Max": 3,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 18,
+      "Damage": 400,
+      "Cooldown": 2
+    },
+    {
+      "Price": 1500,
+      "Range": 30,
+      "Damage": 300,
+      "Cooldown": 1
+    },
+    {
+      "Price": 2000,
+      "Range": 20,
+      "Damage": 350,
+      "Cooldown": 1
+    },
+    {
+      "Price": 3000,
+      "Range": 23,
+      "Damage": 350,
+      "Cooldown": 0.8
+    }
+  ]
+},
+"8-bit foxy": {
+  "Type": "Single",
+  "Image": "rbxassetid://73402729718184",
+  "Rarity": "Mythic",
+  "PlacePrice": 1500,
+  "Max": 2,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 21,
+      "Damage": 25,
+      "Cooldown": 0.25
+    },
+    {
+      "Price": 3000,
+      "Range": 22,
+      "Damage": 25,
+      "Cooldown": 0.2
+    },
+    {
+      "Price": 4000,
+      "Range": 23,
+      "Damage": 30,
+      "Cooldown": 0.15
+    },
+    {
+      "Price": 5000,
+      "Range": 24,
+      "Damage": 30,
+      "Cooldown": 0.05
+    }
+  ]
+},
+"8-bit bonnie": {
+  "Type": "Pierce",
+  "Image": "rbxassetid://71088939528114",
+  "Rarity": "Secret",
+  "PlacePrice": 7500,
+  "Max": 2,
+  "Passive": {
+    "Name": "Slow",
+    "Description": "Inflicts Slowness"
+  },
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 20,
+      "Damage": 500,
+      "Cooldown": 1.5,
+      "Slow": 0.25,
+      "SlowTime": 2
+    },
+    {
+      "Price": 10000,
+      "Range": 22,
+      "Damage": 1000,
+      "Cooldown": 1.25,
+      "Slow": 0.25,
+      "SlowTime": 2
+    },
+    {
+      "Price": 25000,
+      "Range": 24,
+      "Damage": 1500,
+      "Cooldown": 1.25,
+      "Slow": 0.25,
+      "SlowTime": 2
+    },
+    {
+      "Price": 40000,
+      "Range": 25,
+      "Damage": 2500,
+      "Cooldown": 1,
+      "Slow": 0.25,
+      "SlowTime": 2
+    }
+  ]
+},
+"8-bit golden freddy": {
+  "Type": "Cone AOE",
+  "Image": "rbxassetid://81067428439517",
+  "Rarity": "Nightmare",
+  "PlacePrice": 25000,
+  "Max": 2,
+  "Passive": {
+    "Name": "Bleed",
+    "Description": "Inflicts Bleed"
+  },
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 30,
+      "Damage": 500,
+      "Cooldown": 0.5
+    },
+    {
+      "Price": 40000,
+      "Range": 35,
+      "Damage": 1000,
+      "Cooldown": 0.5
+    },
+    {
+      "Price": 50000,
+      "Range": 35,
+      "Damage": 1200,
+      "Cooldown": 0.3
+    },
+    {
+      "Price": 75000,
+      "Range": 40,
+      "Damage": 1200,
+      "Cooldown": 0.2
+    }
+  ]
+},
+"Astral Bonnie": {
+  "Type": "Continuous Splash",
+  "Image": "rbxassetid://73029306518155",
+  "Rarity": "Apex",
+  "PlacePrice": 20000,
+  "Offset": 0.5,
+  "Max": 3,
+  "Passive": {
+    "Name": "Nuclear Fission",
+    "Description": "Completely halts regen on targeted enemies"
+  },
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 30,
+      "Damage": 900,
+      "Cooldown": 0.5,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 10000,
+      "Range": 32,
+      "Damage": 1250,
+      "Cooldown": 0.5,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 25000,
+      "Range": 34,
+      "Damage": 1000,
+      "Cooldown": 0.3,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 40000,
+      "Range": 40,
+      "Damage": 1250,
+      "Cooldown": 0.25,
+      "Bleed": 0,
+      "BleedTime": 10
+    }
+  ]
+},
   "Astral Bonnie": {
             "Type": "Continuous Splash",
             "Image": "rbxassetid://73029306518155",
