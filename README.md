@@ -2280,6 +2280,57 @@
       }
     ]
   },
+  "The Crying Child": {
+        "Type": "AOE Slow",
+        "Image": "rbxassetid://18937271323",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.25
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.2
+            },
+            {
+                "Price": 1400,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.15
+            },
+            {
+                "Price": 1800,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.1
+            },
+            {
+                "Price": 2000,
+                "Range": 32,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.05
+            }
+        ]
+    },
   "Major Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://18665224476",
