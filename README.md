@@ -2610,25 +2610,25 @@
       {
         "Price": 0,
         "Range": 17,
-        "Damage": 10000,
+        "Damage": 20000,
         "Cooldown": 4
       },
       {
         "Price": 25000,
         "Range": 22,
-        "Damage": 125000,
+        "Damage": 30000,
         "Cooldown": 4
       },
       {
         "Price": 30000,
         "Range": 24,
-        "Damage": 15000,
-        "Cooldown": 4
+        "Damage": 30000,
+        "Cooldown": 3
       },
       {
         "Price": 40000,
         "Range": 28,
-        "Damage": 18750,
+        "Damage": 80000,
         "Cooldown": 4
       }
     ]
@@ -3827,26 +3827,26 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 150,
-        "Cooldown": 0.25
+        "Damage": 75,
+        "Cooldown": 0.05
       },
       {
         "Price": 5000,
         "Range": 23,
-        "Damage": 250,
-        "Cooldown": 0.25
+        "Damage": 100,
+        "Cooldown": 0.05
       },
       {
         "Price": 6000,
         "Range": 26,
-        "Damage": 450,
-        "Cooldown": 0.25
+        "Damage": 125,
+        "Cooldown": 0.05
       },
       {
         "Price": 10000,
         "Range": 30,
-        "Damage": 500,
-        "Cooldown": 0.25
+        "Damage": 175,
+        "Cooldown": 0.05
       }
     ]
   },
@@ -3947,7 +3947,7 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 1000,
+        "Damage": 2500,
         "Burn": 1000,
         "BurnTime": 3,
         "Cooldown": 2
@@ -3955,7 +3955,7 @@
       {
         "Price": 20000,
         "Range": 28,
-        "Damage": 1250,
+        "Damage": 5000,
         "Burn": 2000,
         "BurnTime": 3,
         "Cooldown": 2
@@ -3963,7 +3963,7 @@
       {
         "Price": 25000,
         "Range": 31,
-        "Damage": 1500,
+        "Damage": 7500,
         "Burn": 3000,
         "BurnTime": 3,
         "Cooldown": 2
@@ -3971,7 +3971,7 @@
       {
         "Price": 30000,
         "Range": 34,
-        "Damage": 2000,
+        "Damage": 10000,
         "Burn": 4000,
         "BurnTime": 3,
         "Cooldown": 2
@@ -3979,7 +3979,7 @@
       {
         "Price": 50000,
         "Range": 38,
-        "Damage": 5000,
+        "Damage": 15000,
         "Burn": 10000,
         "BurnTime": 3,
         "Cooldown": 2
@@ -4263,7 +4263,7 @@
   "Image": "rbxassetid://81067428439517",
   "Rarity": "Nightmare",
   "PlacePrice": 25000,
-  "Max": 2,
+  "Max": 3,
   "Passive": {
     "Name": "Bleed",
     "Description": "Inflicts Bleed"
