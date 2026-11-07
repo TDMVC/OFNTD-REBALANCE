@@ -2594,7 +2594,7 @@
     "Type": "???",
     "Image": "rbxassetid://115164895793220",
     "Rarity": "Limited",
-    "PlacePrice": 9999,
+    "PlacePrice": 99999,
     "Offset": 0,
     "Max": 1,
     "Passive": {
