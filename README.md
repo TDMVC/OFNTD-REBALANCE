@@ -137,25 +137,25 @@
       {
         "Price": 10000,
         "Range": 15,
-        "Damage": 900,
+        "Damage": 1250,
         "Cooldown": 0.7
       },
       {
         "Price": 25000,
         "Range": 20,
-        "Damage": 1000,
+        "Damage": 1500,
         "Cooldown": 0.5
       },
       {
         "Price": 30000,
         "Range": 26,
-        "Damage": 1250,
+        "Damage": 1750,
         "Cooldown": 0.5
       },
       {
         "Price": 50000,
         "Range": 30,
-        "Damage": 1500,
+        "Damage": 2250,
         "Cooldown": 0.5
       }
     ]
@@ -175,25 +175,25 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 50,
+        "Damage": 75,
         "Cooldown": 0.05
       },
       {
         "Price": 30000,
         "Range": 25,
-        "Damage": 80,
+        "Damage": 100,
         "Cooldown": 0.05
       },
       {
         "Price": 40000,
         "Range": 25,
-        "Damage": 100,
+        "Damage": 150,
         "Cooldown": 0.05
       },
       {
         "Price": 50000,
         "Range": 30,
-        "Damage": 150,
+        "Damage": 200,
         "Cooldown": 0.05
       }
     ]
@@ -1149,19 +1149,19 @@
         "Price": 12222,
         "Range": 13,
         "Damage": 10000,
-        "Cooldown": 5.5
+        "Cooldown": 5
       },
       {
         "Price": 24444,
         "Range": 17,
         "Damage": 10000,
-        "Cooldown": 4.5
+        "Cooldown": 4
       },
       {
         "Price": 48888,
         "Range": 22,
         "Damage": 10000,
-        "Cooldown": 4
+        "Cooldown": 2.5
       }
     ]
   },
@@ -1258,25 +1258,25 @@
       {
         "Price": 0,
         "Range": 24,
-        "Damage": 550,
+        "Damage": 1100,
         "Cooldown": 2
       },
       {
         "Price": 12000,
         "Range": 28,
-        "Damage": 750,
+        "Damage": 1500,
         "Cooldown": 1.5
       },
       {
         "Price": 15000,
         "Range": 32,
-        "Damage": 1200,
+        "Damage": 2000,
         "Cooldown": 1
       },
       {
         "Price": 20000,
         "Range": 35,
-        "Damage": 1550,
+        "Damage": 2000,
         "Cooldown": 0.5
       }
     ]
@@ -1308,13 +1308,13 @@
       {
         "Price": 25000,
         "Range": 40,
-        "Damage": 2500,
+        "Damage": 4000,
         "Cooldown": 1.5
       },
       {
         "Price": 30000,
         "Range": 42,
-        "Damage": 3000,
+        "Damage": 4000,
         "Cooldown": 1
       }
     ]
@@ -3922,7 +3922,7 @@
       {
         "Price": 25000,
         "Range": 30,
-        "Damage": 2000,
+        "Damage": 3000,
         "Cooldown": 1
       }
     ]
@@ -4295,7 +4295,7 @@
     {
       "Price": 75000,
       "Range": 40,
-      "Damage": 1200,
+      "Damage": 1500,
       "Cooldown": 0.2
     }
   ]
@@ -4320,7 +4320,7 @@
     {
       "Price": 0,
       "Range": 30,
-      "Damage": 900,
+      "Damage": 1000,
       "Cooldown": 0.5,
       "Bleed": 0,
       "BleedTime": 10
@@ -4336,7 +4336,7 @@
     {
       "Price": 25000,
       "Range": 34,
-      "Damage": 1000,
+      "Damage": 1250,
       "Cooldown": 0.3,
       "Bleed": 0,
       "BleedTime": 10
@@ -4344,61 +4344,13 @@
     {
       "Price": 40000,
       "Range": 40,
-      "Damage": 1250,
+      "Damage": 1600,
       "Cooldown": 0.25,
       "Bleed": 0,
       "BleedTime": 10
     }
   ]
 },
-  "Astral Bonnie": {
-            "Type": "Continuous Splash",
-            "Image": "rbxassetid://73029306518155",
-            "Rarity": "Apex",
-            "PlacePrice": 20000,
-            "Offset": 0.5,
-            "Max": 3,
-            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
-            "hitboxOffset": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Upgrades": [
-                {
-                    "Price": 0,
-                    "Range": 30,
-                    "Damage": 900,
-                    "Cooldown": 0.5,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                },
-                {
-                    "Price": 10000,
-                    "Range": 32,
-                    "Damage": 1250,
-                    "Cooldown": 0.5,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                },
-                {
-                    "Price": 25000,
-                    "Range": 34,
-                    "Damage": 1000,
-                    "Cooldown": 0.3,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                },
-                {
-                    "Price": 40000,
-                    "Range": 40,
-                    "Damage": 1250,
-                    "Cooldown": 0.25,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                }
-            ]
-        },
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
@@ -4497,7 +4449,7 @@
             {
                 "Price": 100000,
                 "Range": 42,
-                "Damage": 22000,
+                "Damage": 40000,
                 "Cooldown": 4
             }
         ]
