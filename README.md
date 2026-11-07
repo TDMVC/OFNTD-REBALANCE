@@ -2628,8 +2628,8 @@
       {
         "Price": 40000,
         "Range": 28,
-        "Damage": 80000,
-        "Cooldown": 4
+        "Damage": 50000,
+        "Cooldown": 3
       }
     ]
   },
