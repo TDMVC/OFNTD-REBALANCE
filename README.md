@@ -1420,7 +1420,7 @@
     "Rarity": "Nightmare",
     "PlacePrice": 15000,
     "Offset": 0,
-    "Max": 1,
+    "Max": 2,
     "Passive": {
       "Name": "Frightful Terror",
       "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"
