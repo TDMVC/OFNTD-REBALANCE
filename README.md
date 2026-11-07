@@ -966,7 +966,7 @@
     "Image": "rbxassetid://17689695988",
     "Rarity": "Secret",
     "PlacePrice": 400,
-    "Max": 4,
+    "Max": 3,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -982,19 +982,19 @@
       {
         "Price": 800,
         "Range": 22,
-        "Damage": 200,
+        "Damage": 150,
         "Cooldown": 0.5
       },
       {
         "Price": 1200,
         "Range": 25,
-        "Damage": 300,
+        "Damage": 200,
         "Cooldown": 0.5
       },
       {
         "Price": 1600,
         "Range": 30,
-        "Damage": 400,
+        "Damage": 250,
         "Cooldown": 0.5
       }
     ]
