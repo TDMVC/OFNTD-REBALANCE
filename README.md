@@ -4454,7 +4454,7 @@
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -4466,38 +4466,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 5000,
-                "Cooldown": 3
-            },
-            {
-                "Price": 40000,
-                "Range": 26,
-                "Damage": 6000,
-                "Cooldown": 3
-            },
-            {
-                "Price": 40000,
-                "Range": 27,
-                "Damage": 8000,
-                "Cooldown": 3
-            },
-            {
-                "Price": 40000,
                 "Range": 28,
-                "Damage": 9000,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 12500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 17000,
                 "Cooldown": 3
             },
             {
                 "Price": 50000,
-                "Range": 29,
-                "Damage": 12000,
+                "Range": 40,
+                "Damage": 20000,
                 "Cooldown": 4
             },
             {
                 "Price": 100000,
-                "Range": 40,
-                "Damage": 16000,
+                "Range": 42,
+                "Damage": 22000,
                 "Cooldown": 4
             }
         ]
