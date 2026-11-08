@@ -4409,7 +4409,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
