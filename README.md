@@ -3476,25 +3476,25 @@
       {
         "Price": 0,
         "Range": 35,
-        "Damage": 200,
+        "Damage": 300,
         "Cooldown": 0.2
       },
       {
         "Price": 15000,
         "Range": 38,
-        "Damage": 300,
+        "Damage": 400,
         "Cooldown": 0.2
       },
       {
         "Price": 20000,
         "Range": 42,
-        "Damage": 500,
+        "Damage": 600,
         "Cooldown": 0.2
       },
       {
         "Price": 25000,
         "Range": 45,
-        "Damage": 600,
+        "Damage": 800,
         "Cooldown": 0.2
       }
     ]
@@ -4263,7 +4263,7 @@
   "Image": "rbxassetid://81067428439517",
   "Rarity": "Nightmare",
   "PlacePrice": 25000,
-  "Max": 3,
+  "Max": 2,
   "Passive": {
     "Name": "Bleed",
     "Description": "Inflicts Bleed"
@@ -4289,13 +4289,13 @@
     {
       "Price": 50000,
       "Range": 35,
-      "Damage": 1200,
+      "Damage": 2500,
       "Cooldown": 0.3
     },
     {
       "Price": 75000,
       "Range": 40,
-      "Damage": 1500,
+      "Damage": 5000,
       "Cooldown": 0.2
     }
   ]
@@ -4306,7 +4306,7 @@
   "Rarity": "Apex",
   "PlacePrice": 20000,
   "Offset": 0.5,
-  "Max": 3,
+  "Max": 1,
   "Passive": {
     "Name": "Nuclear Fission",
     "Description": "Completely halts regen on targeted enemies"
@@ -4320,32 +4320,32 @@
     {
       "Price": 0,
       "Range": 30,
-      "Damage": 200,
-      "Cooldown": 0.05,
+      "Damage": 400,
+      "Cooldown": 0.1,
       "Bleed": 0,
       "BleedTime": 10
     },
     {
       "Price": 10000,
       "Range": 32,
-      "Damage": 300,
-      "Cooldown": 0.05,
+      "Damage": 600,
+      "Cooldown": 0.1,
       "Bleed": 0,
       "BleedTime": 10
     },
     {
       "Price": 25000,
       "Range": 34,
-      "Damage": 350,
-      "Cooldown": 0.05,
+      "Damage": 700,
+      "Cooldown": 0.1,
       "Bleed": 0,
       "BleedTime": 10
     },
     {
       "Price": 40000,
       "Range": 40,
-      "Damage": 500,
-      "Cooldown": 0.05,
+      "Damage": 1200,
+      "Cooldown": 0.1,
       "Bleed": 0,
       "BleedTime": 10
     }
@@ -4409,7 +4409,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
