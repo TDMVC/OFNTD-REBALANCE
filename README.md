@@ -1283,7 +1283,7 @@
   },
   "Vampire Chica": {
     "Type": "Splash",
-    "Image": "rbxassetid://98594609362548",
+    "Image": "rbxassetid://123658563248047",
     "Rarity": "Nightmare",
     "PlacePrice": 20000,
     "Max": 1,
