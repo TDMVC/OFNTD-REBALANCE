@@ -4263,7 +4263,7 @@
   "Image": "rbxassetid://81067428439517",
   "Rarity": "Nightmare",
   "PlacePrice": 25000,
-  "Max": 2,
+  "Max": 3,
   "Passive": {
     "Name": "Bleed",
     "Description": "Inflicts Bleed"
@@ -4437,19 +4437,19 @@
             {
                 "Price": 40000,
                 "Range": 38,
-                "Damage": 17000,
+                "Damage": 25000,
                 "Cooldown": 3
             },
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 20000,
+                "Damage": 40000,
                 "Cooldown": 4
             },
             {
                 "Price": 100000,
                 "Range": 42,
-                "Damage": 40000,
+                "Damage": 60000,
                 "Cooldown": 4
             }
         ]
